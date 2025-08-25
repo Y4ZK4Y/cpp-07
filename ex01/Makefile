@@ -3,7 +3,7 @@ CXX     := c++
 CXXFLAGS:= -Wall -Werror -Wextra -Wpedantic -std=c++17 -g -fsanitize=address
 
 # Project name
-NAME    := 
+NAME    := iter
 
 # Directories
 SRC_DIR := src
